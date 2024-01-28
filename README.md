@@ -18,7 +18,7 @@
 
 ## 🚀 Мои проекты
 
-- Web-магазин, для реализации еды. - [YourMeal](https://github.com/BorzovRuslanR/YourMeal)] 
+- Web-магазин, для реализации еды. - [YourMeal](https://github.com/BorzovRuslanR/YourMeal)(https://musical-kringle-d3cee9.netlify.app/) 
 - Лэндинг - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
 - TaskManager - [https://github.com/selfxp34/website-uteplenie34.ru] (https://uteplenie34.ru)
 
