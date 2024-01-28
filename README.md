@@ -18,33 +18,22 @@
 
 ## 🚀 Мои проекты
 
-### Web-ресурс, который предоставляет информацию, связанную с путешествиями и туризмом. - [https://github.com/selfxp34/website-vlgcity.ru] (https://vlgcity.ru)
-- Сайт для охранного предприятия. - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
-- Сайт для компании по утеплению домов. - [https://github.com/selfxp34/website-uteplenie34.ru] (https://uteplenie34.ru)
-- Сайт для компании по отделке фасадов домов. - [https://github.com/selfxp34/website-fasad-volgograd.ru] ((https://fasad-volgograd.ru)
-- Лендинг сайт услуги по аэросъемки. - [https://github.com/selfxp34/website-aero134] ((https://aero134.ru)
-- Сайт для любителей котов. - [https://github.com/selfxp34/website-timofeinevskii] (https://timofeinevskii.ru)
-
+- Web-магазин, для реализации еды. - [YourMeal](https://github.com/BorzovRuslanR/YourMeal)] 
+- Лэндинг - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
+- TaskManager - [https://github.com/selfxp34/website-uteplenie34.ru] (https://uteplenie34.ru)
 
 <br/>  
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/AlexSopnevv" target="_blank">
+    <a href="https://t.me/TailorRus" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.youtube.com/@Selfxp34">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://vk.com/self34" target="_blank">
+    </a>    
+    <a href="https://vk.com/r.borzov" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-        <a href="https://instagram.com/selfxp34" target="_blank">
-      <img src="https://static.tildacdn.com/tild3632-3833-4136-b264-646531663566/noroot.png" width="44" height="44" alt="instagram"/>
-    </a>
-
-
+      
 -------
 
 
@@ -83,7 +72,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/selfxp34/badges/large)
+![codewars](https://www.codewars.com/users/BorzovRuslanR/badges/large)
 
 
 <!--
