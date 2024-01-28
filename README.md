@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=6000&pause=1000&background=952650&center=true&vCenter=true&random=false&width=1200&height=300&lines=Hello!+My+name+is+Ruslan+Borzov%2C+I+am+a+novice+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=5500&pause=3000&background=952650&center=true&vCenter=true&random=false&width=1300&height=300&lines=Hello!+My+name+is+Ruslan+Borzov%2C+I+am+a+novice+frontend+developer.)](https://git.io/typing-svg)
 
 
 ### <div align="center">Привет, меня зовут Руслан!</div>  
@@ -19,8 +19,8 @@
 ## 🚀 Мои проекты
 
 - Web-магазин, для реализации еды. - [YourMeal](https://musical-kringle-d3cee9.netlify.app/)(https://github.com/BorzovRuslanR/YourMeal) 
-- Лэндинг - [https://github.com/selfxp34/website-granit] (https://granitvolga.ru)
-- TaskManager - [https://github.com/selfxp34/website-uteplenie34.ru] (https://uteplenie34.ru)
+- Лэндинг - [Starter](https://borzovruslanr.github.io/)(https://github.com/BorzovRuslanR/BorzovRuslanR.github.io) 
+- TaskManager - [TaskManager] (http://user07.test1.seschool.ru/tasks/15)(https://github.com/BorzovRuslanR/Task-manager)
 
 <br/>  
 
