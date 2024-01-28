@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=6000&pause=1000&background=952650&center=true&vCenter=true&random=false&width=800&height=300&lines=Hi%2C+i'am+Ruslan+Borzov.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=6000&pause=1000&background=952650&center=true&vCenter=true&random=false&width=1200&height=300&lines=Hello!+My+name+is+Ruslan+Borzov%2C+I+am+a+novice+web+developer)](https://git.io/typing-svg)
 
 <!--
 **BorzovRuslanR/BorzovRuslanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
