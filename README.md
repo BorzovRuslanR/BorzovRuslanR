@@ -1,4 +1,4 @@
-/header.png
+![Это мой заголовок](header.png)
 
 <!--
 **BorzovRuslanR/BorzovRuslanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
