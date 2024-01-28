@@ -20,7 +20,7 @@
 
 - Web-магазин, для реализации еды. - [YourMeal](https://musical-kringle-d3cee9.netlify.app/)(https://github.com/BorzovRuslanR/YourMeal) 
 - Лэндинг - [Starter](https://borzovruslanr.github.io/)(https://github.com/BorzovRuslanR/BorzovRuslanR.github.io) 
-- TaskManager - [TaskManager] (http://user07.test1.seschool.ru/tasks/15)(https://github.com/BorzovRuslanR/Task-manager)
+- TaskManager - [TaskManager](http://user07.test1.seschool.ru/tasks/15)(https://github.com/BorzovRuslanR/Task-manager)
 
 <br/>  
 
