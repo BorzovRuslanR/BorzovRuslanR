@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=5500&pause=3000&background=952650&center=true&vCenter=true&random=false&width=1300&height=300&lines=Hello!+My+name+is+Ruslan+Borzov%2C+I+am+a+novice+frontend+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=600&size=40&duration=5500&pause=3000&background=952650&center=true&vCenter=true&random=false&width=1300&height=300&lines=Hello!+My+name+is+Ruslan+Borzov%2C+I+am+frontend+developer.)](https://git.io/typing-svg)
 
 
 ### <div align="center">Привет, меня зовут Руслан!</div>  
