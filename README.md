@@ -20,7 +20,7 @@
 
 - Web-магазин, для реализации фастфуда - [YourMeal](https://musical-kringle-d3cee9.netlify.app/)(https://github.com/BorzovRuslanR/YourMeal) 
 - Лэндинг - [Starter](https://borzovruslanr.github.io/)(https://github.com/BorzovRuslanR/BorzovRuslanR.github.io) 
-- TaskManager - [TaskManager](http://user07.test1.seschool.ru/tasks/15)(https://github.com/BorzovRuslanR/Task-manager)
+- Portfolio - [Portfolio](https://remarkable-sunshine-13d298.netlify.app/)(https://github.com/BorzovRuslanR)
 
 <br/>  
 
